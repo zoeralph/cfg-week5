@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+/*HEADER & NAVBAR*/
+
+header{
+    font-family: 'Alata', sans-serif;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+}
+
+nav{
+    background-color: #F2A327;
+    padding: 10px;
+    text-align: center;
+}
+
+/*BODY*/
+
+#p1{
+    font-family: 'Alata', sans-serif;
+    padding: 40px 0 20px 0;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+/*BUTTON*/
+
+button {
+    background-color: #F2A327;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+    box-shadow: 5px 5px 2.5px #e0e0e0;
+    font-style: italic;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.mobileno{
+    column-count: 2;
+}
